@@ -12,7 +12,7 @@
 
 Hi, I'm **Ashhh**, a passionate Software Developer with a strong interest in Android and Web Development. I enjoy turning ideas into practical, user-friendly applications with clean code and intuitive interfaces.
 
-I have experience building Android applications using **Kotlin** and **Jetpack Compose**, as well as web applications using **PHP, MySQL, HTML, CSS, and JavaScript**. I love learning new technologies, solving real-world problems, and continuously improving my development skills through personal projects and open-source learning.
+I have experience building Android applications using **Kotlin** and **Jetpack Compose**, as well as web applications using **MySQL, HTML, CSS, and JavaScript**. I love learning new technologies, solving real-world problems, and continuously improving my development skills through personal projects and open-source learning.
 
 I'm currently focused on expanding my expertise in full-stack development, software engineering, and modern application development while creating projects that make a meaningful impact.
 
@@ -20,8 +20,8 @@ I'm currently focused on expanding my expertise in full-stack development, softw
 
 ##  Core Technologies & Focus
 
-* **Languages** ── Python │ JavaScript │ PHP │ HTML & CSS │ C++
-* **Back-End Engineering** ── Server-side logic & database architecture with PHP & MySQL
+* **Languages** ── Python │ JavaScript │ HTML & CSS │ C++
+* **Back-End Engineering** ── Server-side logic & database architecture with MySQL
 * **Problem Solving** ── Active Competitive Programming & optimized DSA structures
 * **Data Science** ── Quantitative Data Analysis & pattern extraction
 
@@ -38,17 +38,10 @@ I'm currently focused on expanding my expertise in full-stack development, softw
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
 </p>
 
 ### 🔧 Environments, OS & CLI
@@ -60,7 +53,7 @@ I'm currently focused on expanding my expertise in full-stack development, softw
   <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=4ED1BA" />
 </p>
 
-### 🎨 Creative & Design Suite
+###  Creative & Design Suite
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe_Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
