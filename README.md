@@ -76,4 +76,3 @@ I'm currently focused on expanding my expertise in full-stack development, softw
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0E0E0,100:2C3E50&height=200&section=footer" width="100%" alt="Footer Banner" />
 </p>
-end
